@@ -10,9 +10,9 @@ Entorno: Visual Studio Code
 
 
 ## OBJETIVO
-En este proyecto, realicé una exploración de datos del conjunto de datos de COVID-19 en Perú por el MINSA empleé las bibliotecas
-Pandas y NumPy para la manipulación eficiente de datos, lo que me permitió explorar y entender la estructura del 
-conjunto de datos.
+En este proyecto, realicé un análisis detallado del conjunto de datos de COVID-19 en Perú utilizando Python, aprovechando las 
+bibliotecas Pandas, NumPy, Matplotlib y Seaborn para explorar y entender la estructura y las tendencias de los datos.
 
-Para visualizar las tendencias y patrones, utilicé Matplotlib y Seaborn para crear gráficos realacionados a la edad.Además, implementé técnicas de tratamiento de datos, como la imputación de valores faltantes, utilizando el algoritmo KNNImputer de Scikit-Learn. Esto aseguró que los datos estuvieran completos y listos para el análisis sin comprometer la calidad de la información.
+Posteriormente, llevé a cabo un tratamiento de datos eficiente, utilizando técnicas como la imputación de valores faltantes 
+con KNNImputer de Scikit-Learn para garantizar que los datos fueran completos y preparados para el análisis.
 
