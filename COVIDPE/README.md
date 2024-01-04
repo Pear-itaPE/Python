@@ -11,8 +11,7 @@
 
 ## PYTHON
 
-En este proyecto, realicé un análisis detallado del conjunto de datos de COVID-19 en Perú utilizando Python, para explorar y entender la estructura.  y las tendencias de los datos. Posteriormente, llevé a cabo un tratamiento de datos eficiente, utilizando técnicas como la imputación de valores faltantes con KNNImputer para garantizar que los datos fueran completos y preparados para el análisis. Utilizando 
-las siguientes Librerías:
+En este proyecto, realicé un análisis detallado del conjunto de datos de COVID-19 en Perú utilizando Python, para explorar y entender la estructura.  y las tendencias de los datos. Posteriormente, llevé a cabo un tratamiento de datos eficiente, utilizando técnicas como la imputación de valores faltantes con KNNImputer para garantizar que los datos fueran completos y preparados para el análisis. Todo ello utilizando las siguientes Librerías:
 
 * 📚Pandas
 * 📚NumPy
