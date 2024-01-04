@@ -1,5 +1,7 @@
 ## VERSIÓN 
-Versiòn: Python 3.12.0
+Versiòn: Python 3.12.0  
+
+
 Entorno: Visual Studio Code
 
 
