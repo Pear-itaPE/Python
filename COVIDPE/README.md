@@ -23,11 +23,11 @@ las siguientes Librerías:
 
 ## POWER BI
 
-En este proyecto, exploré a fondo los datos de COVID-19 en Perú utilizando Python, con análisis detallado mediante bibliotecas como Pandas, NumPy, Matplotlib y Seaborn. Posteriormente, enriquecí la presentación de los resultados mediante Power BI.
-
 La integración de este análisis de datos con Power BI permitió llevar la visualización a un nivel superior. Utilicé las 
 capacidades avanzadas de visualización de Power BI para presentar de manera efectiva las tendencias y patrones descubiertos 
-en el análisis de datos de Python.
+en el análisis de datos de Python. [DASHBOARD](https://www.novypro.com/project/covid-19---peru) 🔗
+
+
 
 
 
