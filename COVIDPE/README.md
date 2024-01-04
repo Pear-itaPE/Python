@@ -16,7 +16,9 @@ bibliotecas Pandas, NumPy, Matplotlib y Seaborn para explorar y entender la estr
 Posteriormente, llevé a cabo un tratamiento de datos eficiente, utilizando técnicas como la imputación de valores faltantes 
 con KNNImputer de Scikit-Learn para garantizar que los datos fueran completos y preparados para el análisis.
 
-## POWER BI
+## POWER BI [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/)
+
+En este proyecto, exploré a fondo los datos de COVID-19 en Perú utilizando Python, con análisis detallado mediante bibliotecas como Pandas, NumPy, Matplotlib y Seaborn. Posteriormente, enriquecí la presentación de los resultados mediante Power BI.
 
 La integración de este análisis de datos con Power BI permitió llevar la visualización a un nivel superior. Utilicé las 
 capacidades avanzadas de visualización de Power BI para presentar de manera efectiva las tendencias y patrones descubiertos 
